@@ -1,5 +1,5 @@
 # Lung Cancer Detection and Staging Using Deep Learning
-
+Dataset Link: https://www.kaggle.com/datasets/zhangweiled/lidcidri
 ## Overview
 This project focuses on **lung cancer detection and staging** using **CT scan images** from the LIDC-IDRI dataset. A **U-Net model with a ResNet34 backbone** is used for **tumor segmentation**, and based on the segmented tumor size, the cancer is staged into different categories.
 
